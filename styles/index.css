@@ -59,6 +59,7 @@ a {
 
 button {
 	font-family: inherit;
+	cursor: pointer;
 }
 
 html,
